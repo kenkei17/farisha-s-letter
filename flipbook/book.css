@@ -202,4 +202,17 @@ ul{
   }
 }
 
-
+.video-page{
+	background-size: contain;
+	height: 100%;	
+	transform: translateX(-40%);
+}
+.video-text{
+	position: absolute;
+	bottom: 1%;
+	color: #f1f360;
+	font-family: "Give You Glory", cursive;
+	font-weight: 400;
+	background-color:#222222a4 ;
+	font-size: 25px;
+}	 
